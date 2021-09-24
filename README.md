@@ -7,7 +7,7 @@ Cloud Security, DevSecOps, and Application Security are pursued through personal
 to expand into Windows PE. More recently, I have been doing research into the security implications of tools like OpenAI!
 - 📫  &nbsp;&nbsp; Take a look at my website! It should list my contact info & recent endeavours: *[jstmcneil.github.io](jstmcneil.github.io)*
 
-![](https://c.tenor.com/4Arf9k1Kwq4AAAAC/duck-happy.gif)
+(![image](https://user-images.githubusercontent.com/33610633/134710764-67d134f3-43fb-47b2-8a2f-f731322e804c.png))
 Thank you for reading & be kind to each other. :)
 
 <!--
