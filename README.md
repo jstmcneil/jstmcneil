@@ -1,6 +1,6 @@
 Hello there! My name is Jake McNeil, and I'm a developer turned Cybersecurity consultant. My primary interests include 
-Cloud Security, DevSecOps, and Application Security are pursued through personal research, enterprise work, and university 
-& certificate curricula. 
+*Cloud Security, DevSecOps, and Application Security* are pursued through *personal research, enterprise work, and university 
+& certificate curricula.* 
 
 - 🌱 &nbsp;&nbsp; Currently finishing up my Master in Information Security at Georgia Tech. For info, please refer to this link [here.](https://www.gatech.edu/academics/degrees/masters/cybersecurity-ms-cybersecurity)
 - 🔭  &nbsp;&nbsp; At this time, I'm exploring binary exploitation in x86! My expertise mostly lies in ELF binaries, but I am looking
