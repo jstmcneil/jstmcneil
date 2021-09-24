@@ -4,7 +4,7 @@ Cloud Security, DevSecOps, and Application Security are pursued through personal
 
 - 🌱 &nbsp;&nbsp; Currently finishing up my Master in Information Security at Georgia Tech. For info, please refer to this link [here.](https://www.gatech.edu/academics/degrees/masters/cybersecurity-ms-cybersecurity)
 - 🔭  &nbsp;&nbsp; At this time, I'm exploring binary exploitation in x86! My expertise mostly lies in ELF binaries, but I am looking
-to expand into Windows PE. Past that, I'm doing research into the security applications of OpenAI! I even have a few cool demos.
+to expand into Windows PE. Past that, I have been doing research into the security implications of tools like OpenAI!
 - 📫  &nbsp;&nbsp; Take a look at my website! It should list my contact info & recent endeavours: *[jstmcneil.github.io](jstmcneil.github.io)*
 
 Thank you for reading & be kind to each other. :)
