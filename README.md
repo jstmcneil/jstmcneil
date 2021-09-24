@@ -9,7 +9,7 @@ to expand into Windows PE. More recently, I have been doing research into the se
 
 (![image](https://c.tenor.com/4otr5S3l1agAAAAj/dancing-duckdancing.gif))
 
-Thank you for reading & be kind to each other. :)
+Thank you for reading & remember be kind to each other! :)
 
 <!--
 **jstmcneil/jstmcneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
