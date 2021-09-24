@@ -1,9 +1,7 @@
-Hello there! My name is Jake McNeil and I'm a developer turned Cybersecurity consultant. Primary interests include 
-Cloud Security, DevSecOps, Application Security, and Penetration Testing which are pursued through personal research, 
-enterprise work, and university & certificate curricula.
-
-Currently finishing up my Master in Information Security at Georgia Tech. To find more about this program, please
-defer to this link [here.](https://www.gatech.edu/academics/degrees/masters/cybersecurity-ms-cybersecurity)
+Hello there! My name is Jake McNeil and I'm a developer turned Cybersecurity consultant. My primary interests include 
+Cloud Security, DevSecOps, and Application Security which are pursued through personal research, enterprise work, and university 
+& certificate curricula. Currently finishing up my Master in Information Security at Georgia Tech. To find more about this 
+program, please defer to this link [here.](https://www.gatech.edu/academics/degrees/masters/cybersecurity-ms-cybersecurity)
 
 Take a look at my website! It should list my contact info & recent endeavours: [jstmcneil.github.io](jstmcneil.github.io)
 
