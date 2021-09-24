@@ -5,7 +5,7 @@ enterprise work, and university & certificate curricula.
 Currently finishing up my Master in Information Security at Georgia Tech. To find more about this program, please
 defer to this link [here.](https://www.gatech.edu/academics/degrees/masters/cybersecurity-ms-cybersecurity)
 
-[jstmcneil.github.io](jstmcneil.github.io)
+Take a look at my website! It should list my contact info & recent endeavours: [jstmcneil.github.io](jstmcneil.github.io)
 
 <!--
 **jstmcneil/jstmcneil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
